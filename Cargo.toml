@@ -6,3 +6,4 @@ authors = ["tbrand <taichiro0709@gmail.com>"]
 [dependencies]
 clap = "*"
 trust-dns-resolver = "*"
+reqwest = "*"
